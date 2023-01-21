@@ -1,3 +1,3 @@
 ## Python Basics 
 
-👋 Hi I'm Kamran Sohail,working on my Python Skills and trying to do some EDA(Exploratory Data Analysis) on Many Domain to see How a Data Trying to solve business problems and give us a solutions with meaning full Visualization and Observation.
+👋 Hi I'm Kamran Sohail,working on my Python Skills and trying to solve some data related problem with python. this repository help me alot to start Python journey.
